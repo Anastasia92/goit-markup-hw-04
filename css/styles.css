@@ -382,6 +382,7 @@ img {
 
 .footer-social-list {
     gap: 16px;
+    margin-top: 0;
 }
 
 .footer-icon-item:hover,
